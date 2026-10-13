@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%26+SEO+Expert;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Turning+data+into+intelligent+products;Helping+brands+get+found+on+Google" alt="Typing intro">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mahmudultopu&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views">
 
 </div>
 
@@ -65,18 +64,18 @@
 
 <p>
   <a href="https://github.com/mahmudultopu/the-cube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=the-cube&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="The Cube" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=the-cube&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10&description_lines_count=3" alt="The Cube" width="49%">
   </a>
   <a href="https://github.com/mahmudultopu/newportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=newportfolio&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="Portfolio" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=newportfolio&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10&description_lines_count=3" alt="Portfolio" width="49%">
   </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudultopu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudultopu&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="Most used languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudultopu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub stats" width="54%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudultopu&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="Most used languages" width="44%">
 </p>
 
 <img src="https://streak-stats.demolab.com?user=mahmudultopu&theme=tokyonight&background=0D1117&hide_border=true&border_radius=10" alt="GitHub streak" width="100%">
