@@ -1,87 +1,94 @@
-<img src="assets/banner.png" alt="Mahmudul Hasan Topu: AI/ML Engineer and SEO Expert" width="100%">
+<img src="assets/banner.png" alt="Mahmudul Hasan Topu — AI/ML Engineer and SEO Expert. CSE, North South University. Dhaka, Bangladesh." width="100%">
 
 <div align="center">
 
-<a href="https://newportfolio-wine-zeta.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%26+SEO+Expert;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Turning+data+into+intelligent+products;Helping+brands+get+found+on+Google" alt="Typing intro">
-</a>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-newportfolio--wine--zeta.vercel.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newportfolio-wine-zeta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul_Hasan_Topu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-hasan-topu-70b66b361)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhasan46367@gmail.com)
 
 </div>
 
-## Hi 👋, I'm Mahmudul Hasan Topu
+## About
 
-### 💫 About Me
+I'm an **AI/ML engineer and SEO specialist** based in Dhaka, Bangladesh, with a B.Sc. in **Computer Science & Engineering from North South University** (major in AI & ML). I work freelance, building machine-learning models and search strategies, and the production web applications that put them in front of real users.
 
-- 🔭 I build **machine-learning models** and **SEO strategies** as a freelance AI/ML & SEO specialist.
-- 🎓 B.Sc. in **Computer Science & Engineering** from **North South University**, majoring in AI & ML.
-- 🧠 Most interested in **deep learning, NLP and computer vision**.
-- 🧊 Latest project: **[The Cube](https://the-cube-game.vercel.app)**, a 3D puzzle cube you can play in your browser.
-- 💬 Ask me about **machine learning, Python, data analysis or technical SEO**.
-- 📫 Reach me at **[mahmudulhasan46367@gmail.com](mailto:mahmudulhasan46367@gmail.com)**
+My focus areas are **deep learning, NLP and computer vision**. I care about software that is tested, secure, accessible and well documented, from the first prototype to a deployed product.
 
-### 🌐 Socials
+## Core competencies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjg1IDEuNjM3LTEuNzQ2IDMuMzctMS43NDYgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/mahmudul-hasan-topu-70b66b361)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newportfolio-wine-zeta.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhasan46367@gmail.com)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Machine learning</h4>
+      Deep learning, NLP and computer vision. Data analysis, model development and evaluation in Python with PyTorch, TensorFlow and scikit-learn.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Web engineering</h4>
+      Full-stack TypeScript and JavaScript: Next.js, React and Node.js on PostgreSQL. CI pipelines, automated tests, security hardening and cloud deployment.
+    </td>
+    <td width="33%" valign="top">
+      <h4>SEO & analytics</h4>
+      Technical SEO and search visibility, measured with Google Search Console and Google Analytics, built into how sites are made.
+    </td>
+  </tr>
+</table>
 
-### 💻 Tech Stack
+## Selected work
 
-**AI & Machine Learning**
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **[TimeCapsule.fm](https://github.com/mahmudultopu/timecolapse)** | An interactive map of ambient sound from places across the decades, with full provenance for every recording, contributor uploads and moderation | Next.js, Fastify, PostgreSQL/PostGIS, sandboxed ffmpeg, Docker, Playwright | [Live](https://timecolapse.vercel.app) · [Code](https://github.com/mahmudultopu/timecolapse) |
+| **[CHAJOY BD](https://github.com/mahmudultopu/chajoy)** | Online ordering and back office for a Dhaka bubble-tea and ice-cream chain, with branch-specific menus, prices and availability | Next.js 16, React 19, TypeScript, Tailwind CSS, PostgreSQL (Drizzle) | [Live](https://chajoy-bd.vercel.app) · [Code](https://github.com/mahmudultopu/chajoy) |
+| **[Drink it](https://github.com/mahmudultopu/drink-it)** | An online shop for canned drinks in Bangladesh with cash-on-delivery and mobile-wallet checkout and an admin dashboard, built with zero runtime dependencies | Node.js, vanilla JavaScript, CI | [Live](https://drink-it-drab.vercel.app) · [Code](https://github.com/mahmudultopu/drink-it) |
+| **[The Cube](https://github.com/mahmudultopu/the-cube)** | A 3×3 puzzle cube you can play in the browser, with a timer and a built-in step-by-step solving guide | Three.js, WebGL, JavaScript | [Play](https://the-cube-game.vercel.app) · [Code](https://github.com/mahmudultopu/the-cube) |
+| **[Portfolio](https://github.com/mahmudultopu/newportfolio)** | My animated portfolio site, with a private admin panel (two-factor login) that edits every section from the browser | Node.js, Express, JavaScript | [Live](https://newportfolio-wine-zeta.vercel.app) · [Code](https://github.com/mahmudultopu/newportfolio) |
+| **[Conwerse](https://github.com/mahmudultopu/sneaker)** | A responsive sneaker store landing page with a carousel, filters, bag, wishlist and checkout, under a strict Content Security Policy | React, Vite, Tailwind CSS | [Live](https://sneaker-gold.vercel.app) · [Code](https://github.com/mahmudultopu/sneaker) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+## How I work
 
-**Backend, Data & Web**
+- **Tested and automated:** continuous integration on every push, with unit, integration and end-to-end tests.
+- **Secure by default:** strict security headers and CSP, validated input, and least-privilege data access.
+- **Accessible and global:** WCAG-minded interfaces, keyboard support, and multilingual and right-to-left layouts.
+- **Documented:** clear READMEs, architecture notes and operations guides, so projects are easy to hand over.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+## Technical toolkit
 
-**SEO & Analytics**
+**AI & machine learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+**Web & backend**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**Tools**
+**Data & infrastructure**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**SEO & analytics**<br>
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-### 🚀 Featured Projects
+## Education
 
-<p>
-  <a href="https://github.com/mahmudultopu/the-cube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=the-cube&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10&description_lines_count=3" alt="The Cube" width="49%">
-  </a>
-  <a href="https://github.com/mahmudultopu/newportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudultopu&repo=newportfolio&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10&description_lines_count=3" alt="Portfolio" width="49%">
-  </a>
-</p>
+**B.Sc. in Computer Science & Engineering**: North South University, Dhaka. Major in Artificial Intelligence & Machine Learning.
 
-### 📊 GitHub Stats
+## Let's work together
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudultopu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub stats" width="54%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudultopu&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" alt="Most used languages" width="44%">
-</p>
-
-<img src="https://streak-stats.demolab.com?user=mahmudultopu&theme=tokyonight&background=0D1117&hide_border=true&border_radius=10" alt="GitHub streak" width="100%">
-
-<br>
-
-<div align="center">
-  <sub>Thanks for stopping by. Let's build something intelligent together. ✨</sub>
-</div>
+I'm available for freelance work in machine learning, web development and SEO. The fastest way to reach me is **[email](mailto:mahmudulhasan46367@gmail.com)**, or connect on **[LinkedIn](https://www.linkedin.com/in/mahmudul-hasan-topu-70b66b361)**.
