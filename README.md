@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Mahmudul Hasan Topu — AI/ML Engineer and SEO Expert. CSE, North South University. Dhaka, Bangladesh." width="100%">
+<img src="assets/banner.png" alt="Mahmudul Hasan Topu — Full-Stack Software Engineer · AI/ML · Technical SEO. B.Sc. CSE, North South University. Dhaka, Bangladesh." width="100%">
 
 <div align="center">
 
@@ -10,21 +10,25 @@
 
 ## About
 
-I'm an **AI/ML engineer and SEO specialist** based in Dhaka, Bangladesh, with a B.Sc. in **Computer Science & Engineering from North South University** (major in AI & ML). I work freelance, building machine-learning models and search strategies, and the production web applications that put them in front of real users.
+I'm a **full-stack software engineer** based in Dhaka, Bangladesh, with a B.Sc. in **Computer Science & Engineering from North South University** (major in Artificial Intelligence & Machine Learning). I design, build and ship production web applications end to end, from data model and API to interface, testing and deployment, and I bring a working background in **machine learning** and **technical SEO** to the products I build.
 
-My focus areas are **deep learning, NLP and computer vision**. I care about software that is tested, secure, accessible and well documented, from the first prototype to a deployed product.
+I care about software that is **tested, secure, accessible and well documented**, so it can be handed over to a team and maintained with confidence.
+
+- **Currently:** freelance software engineer, delivering web platforms for clients in Bangladesh
+- **Open to:** full-time software engineering roles and selected freelance projects
+- **Growing in:** applied machine learning (NLP and computer vision) in production web products
 
 ## Core competencies
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>Machine learning</h4>
-      Deep learning, NLP and computer vision. Data analysis, model development and evaluation in Python with PyTorch, TensorFlow and scikit-learn.
+      <h4>Software engineering</h4>
+      Full-stack TypeScript and JavaScript: Next.js, React and Node.js on PostgreSQL. CI pipelines, automated tests, security hardening and cloud deployment.
     </td>
     <td width="33%" valign="top">
-      <h4>Web engineering</h4>
-      Full-stack TypeScript and JavaScript: Next.js, React and Node.js on PostgreSQL. CI pipelines, automated tests, security hardening and cloud deployment.
+      <h4>Machine learning</h4>
+      Deep learning, NLP and computer vision. Data analysis, model development and evaluation in Python with PyTorch, TensorFlow and scikit-learn.
     </td>
     <td width="33%" valign="top">
       <h4>SEO & analytics</h4>
@@ -37,7 +41,7 @@ My focus areas are **deep learning, NLP and computer vision**. I care about soft
 
 | Project | What it is | Built with | Links |
 |---|---|---|---|
-| **[TimeCapsule.fm](https://github.com/mahmudultopu/timecolapse)** | An interactive map of ambient sound from places across the decades, with full provenance for every recording, contributor uploads and moderation | Next.js, Fastify, PostgreSQL/PostGIS, sandboxed ffmpeg, Docker, Playwright | [Live](https://timecolapse.vercel.app) · [Code](https://github.com/mahmudultopu/timecolapse) |
+| **[TimeCapsule.fm](https://github.com/mahmudultopu/timecapsule-fm)** | An interactive map of ambient sound from places across the decades, with full provenance for every recording, contributor uploads and moderation | Next.js, Fastify, PostgreSQL/PostGIS, sandboxed ffmpeg, Docker, Playwright | [Live](https://timecolapse.vercel.app) · [Code](https://github.com/mahmudultopu/timecapsule-fm) |
 | **[CHAJOY BD](https://github.com/mahmudultopu/chajoy)** | Online ordering and back office for a Dhaka bubble-tea and ice-cream chain, with branch-specific menus, prices and availability | Next.js 16, React 19, TypeScript, Tailwind CSS, PostgreSQL (Drizzle) | [Live](https://chajoy-bd.vercel.app) · [Code](https://github.com/mahmudultopu/chajoy) |
 | **[Drink it](https://github.com/mahmudultopu/drink-it)** | An online shop for canned drinks in Bangladesh with cash-on-delivery and mobile-wallet checkout and an admin dashboard, built with zero runtime dependencies | Node.js, vanilla JavaScript, CI | [Live](https://drink-it-drab.vercel.app) · [Code](https://github.com/mahmudultopu/drink-it) |
 | **[The Cube](https://github.com/mahmudultopu/the-cube)** | A 3×3 puzzle cube you can play in the browser, with a timer and a built-in step-by-step solving guide | Three.js, WebGL, JavaScript | [Play](https://the-cube-game.vercel.app) · [Code](https://github.com/mahmudultopu/the-cube) |
@@ -53,15 +57,6 @@ My focus areas are **deep learning, NLP and computer vision**. I care about soft
 
 ## Technical toolkit
 
-**AI & machine learning**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
 **Web & backend**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -72,6 +67,15 @@ My focus areas are **deep learning, NLP and computer vision**. I care about soft
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**AI & machine learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **Data & infrastructure**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -89,6 +93,6 @@ My focus areas are **deep learning, NLP and computer vision**. I care about soft
 
 **B.Sc. in Computer Science & Engineering**: North South University, Dhaka. Major in Artificial Intelligence & Machine Learning.
 
-## Let's work together
+## Get in touch
 
-I'm available for freelance work in machine learning, web development and SEO. The fastest way to reach me is **[email](mailto:mahmudulhasan46367@gmail.com)**, or connect on **[LinkedIn](https://www.linkedin.com/in/mahmudul-hasan-topu-70b66b361)**.
+I'm open to **full-time software engineering roles** and selected **freelance projects** in web development, machine learning and SEO. The fastest way to reach me is **[email](mailto:mahmudulhasan46367@gmail.com)**, or connect on **[LinkedIn](https://www.linkedin.com/in/mahmudul-hasan-topu-70b66b361)**.
